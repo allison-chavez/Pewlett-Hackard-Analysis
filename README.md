@@ -6,7 +6,8 @@ The purpose of this analysis was to take the company staff data provided by Pewl
  ## Results: 
 - Unique titles file allows HR to have clean data to see the retirement eligible employees current title instead of all their previous titles so they can better prepare for job openings.
 - There are only 2 managers within the company, compared to how many people are currently employed this ratio is not sustainable for the company.
-![alt text](https://github.com/allison-chavez/Pewlett-Hackard-Analysis/blob/main/Data_Images/retiring_titles.png![image]
+
+![alt text](https://github.com/allison-chavez/Pewlett-Hackard-Analysis/blob/main/Data_Images/retiring_titles.png![image])
 
 (https://user-images.githubusercontent.com/75692892/116499923-fa0fa700-a872-11eb-8bb0-3c8bf2e058f1.png)
 
