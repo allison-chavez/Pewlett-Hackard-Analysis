@@ -12,6 +12,9 @@ The purpose of this analysis was to take the company staff data provided by Pewl
 
 - PH has a total of 90398 employees who are about to or eligible to retire.
 - PH has 1549 employees who are eligible to be a part of the mentorship program. 
+![alt text](https://github.com/allison-chavez/Pewlett-Hackard-Analysis/blob/main/Data_Images/mentorship_eligibility.png)
+![image](https://user-images.githubusercontent.com/75692892/116500073-5ffc2e80-a873-11eb-93bc-111ae3986c35.png)
+
 
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
